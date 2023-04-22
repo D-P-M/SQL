@@ -6,4 +6,4 @@ WHEN review > 3 THEN "Good"
 WHEN review > 2 THEN "Fair"
 ELSE "Poor"
 END AS "Review"
-FROM nomnom;
+FROM nomnom; 
